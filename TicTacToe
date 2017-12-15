@@ -11,10 +11,6 @@ package ttt;
 import java.awt.Color;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author TAMU
- */
 public class TicTacToeFrame extends javax.swing.JFrame {
 
     private String whoseTurn = "X";
